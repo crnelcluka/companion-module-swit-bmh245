@@ -3,7 +3,7 @@
 	"name": "swit-bmh245",
 	"shortname": "BM-H245",
 	"description": "Control a SWIT BM-H245 broadcast monitor over its built-in HTTP/CGI web interface (port 8080).",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"license": "MIT",
 	"repository": "https://github.com/crnelcluka/companion-module-swit-bmh245",
 	"bugs": "https://github.com/crnelcluka/companion-module-swit-bmh245/issues",

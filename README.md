@@ -10,7 +10,7 @@ command/parameter in this module matches exactly what the monitor's web page sen
 
 **Actions**
 - Input source: SDI1-4, SQ, 2-SI, SFP, HDMI
-- Function keys F1-F6
+- Function keys F1-F5
 - Load user profile (1-4)
 - Picture: volume (set / relative), chroma, brightness, contrast
 - Freeze frame (Off / Full / Top / Bottom, plus a toggle)

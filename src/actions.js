@@ -30,7 +30,7 @@ function getActions(self) {
 		},
 
 		function_key: {
-			name: 'Press function key (F1-F6)',
+			name: 'Press function key (F1-F5)',
 			options: [dropdown('key', 'Key', FUNCTION_KEYS)],
 			callback: async (ev) => self.send('CmdSetFunctionKey', ev.options.key),
 		},

@@ -18,7 +18,7 @@ network can control it. Keep the monitor on a trusted/management network.
 ## Actions
 
 - **Input: set source** — SDI1-4, SQ, 2-SI, SFP, HDMI
-- **Press function key** — F1-F6
+- **Press function key** — F1-F5
 - **Load user profile** — 1-4
 - **Picture** — volume (set / relative), chroma, brightness, contrast
 - **Freeze frame** — Off / Full / Top half / Bottom half (+ toggle)

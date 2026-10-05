@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.2
+- Correct function keys to F1-F5 (the BM-H245 has five function keys, not six).
+
 ## 1.1.1
 - Fix input-source feedback for sources whose reported status string differs
   from the command value: SQ reports `4xSDI SQD`, 2-SI reports `4xSDI 2SI`,

@@ -45,13 +45,13 @@ function inputSourceMatches(id, reported) {
 	return candidates.includes(norm(reported))
 }
 
+// The BM-H245 has five physical function keys (F1-F5).
 const FUNCTION_KEYS = [
 	{ id: 'F1', label: 'F1' },
 	{ id: 'F2', label: 'F2' },
 	{ id: 'F3', label: 'F3' },
 	{ id: 'F4', label: 'F4' },
 	{ id: 'F5', label: 'F5' },
-	{ id: 'F6', label: 'F6' },
 ]
 
 const FREEZE_MODES = [
