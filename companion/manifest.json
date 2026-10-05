@@ -1,0 +1,33 @@
+{
+	"id": "swit-bmh245",
+	"name": "swit-bmh245",
+	"shortname": "BM-H245",
+	"description": "Control a SWIT BM-H245 broadcast monitor over its built-in HTTP/CGI web interface (port 8080).",
+	"version": "1.1.1",
+	"license": "MIT",
+	"repository": "https://example.com/companion-module-swit-bmh245",
+	"bugs": "https://example.com/companion-module-swit-bmh245/issues",
+	"maintainers": [
+		{
+			"name": "RackFlow",
+			"email": "klaudije@stype.tv"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node18",
+		"api": "nodejs-ipc",
+		"apiVersion": "1.0.0",
+		"entrypoint": "../main.js"
+	},
+	"manufacturer": "SWIT Electronics",
+	"products": [
+		"BM-H245"
+	],
+	"keywords": [
+		"monitor",
+		"broadcast",
+		"swit",
+		"production"
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"name": "companion-module-swit-bmh245",
+	"version": "1.1.1",
+	"type": "commonjs",
+	"main": "main.js",
+	"description": "Bitfocus Companion module for SWIT BM-H245 broadcast monitor (HTTP/CGI control)",
+	"scripts": {
+		"package": "companion-module-build",
+		"dev": "companion-module-build dev"
+	},
+	"license": "MIT",
+	"keywords": [
+		"swit",
+		"bm-h245",
+		"monitor",
+		"broadcast"
+	],
+	"dependencies": {
+		"@companion-module/base": "^1.12.0"
+	},
+	"devDependencies": {
+		"@companion-module/tools": "^2.1.0"
+	}
+}
